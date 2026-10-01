@@ -1,0 +1,8 @@
+{
+  "name": "VeuLiterària - Traductor & Audiollibres en Català",
+  "description": "Traductor literari professional i narrador d'audiollibres en català normatiu i expressiu amb síntesi de veu d'alta qualitat.",
+  "requestFramePermissions": [
+    "camera"
+  ],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
